@@ -1,0 +1,10 @@
+{
+  "name": "@threekit/service",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@threekit/mod": "workspace:modules/mod"
+  }
+}
