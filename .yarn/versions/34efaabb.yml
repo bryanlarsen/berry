@@ -1,0 +1,3 @@
+releases:
+  "@threekit/mod": patch
+  "@threekit/service": patch
